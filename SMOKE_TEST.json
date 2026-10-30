@@ -1,0 +1,9 @@
+{
+  "status": "Runtime smoke test could not run in the file-generation environment because Flask is not installed there.",
+  "what_to_test_locally": [
+    "Install requirements with: python -m pip install -r requirements.txt",
+    "Run with: python app.py",
+    "Open http://127.0.0.1:5000",
+    "Submit the applicant form and check the prediction and model comparison sections"
+  ]
+}
